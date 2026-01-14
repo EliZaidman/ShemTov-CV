@@ -1,9 +1,8 @@
 ---
 title: "Vertical Slice"
 slug: "vertical-slice"
-summary: "PC humorous short game about game development"
+summary: "A humorous short-form parody of developer struggles with meta-systems."
 role: "Game Designer"
-date: ""
 tags:
   - Game Design
   - Mobile
@@ -14,11 +13,16 @@ gallery:
   - "/images/placeholders/vertical-slice.png"
 ---
 
-PC humorous short game about game development
+A humorous short-form parody of developer struggles with meta-systems.
 
 ## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
 
-## About the Game
-PC humorous short game about game development — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
+## Overview
+A humorous short-form parody of developer struggles with meta-systems. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
 
+## Core Design Contributions
+- Systems layout and initial ideation
+- Loop structure and tuning
+- Progression and balancing adjustments
+- Fast prototyping and iteration cycles

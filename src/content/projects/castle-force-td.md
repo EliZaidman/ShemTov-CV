@@ -1,9 +1,8 @@
 ---
-title: "Castle Force TD"
+title: "Castle Force Td"
 slug: "castle-force-td"
-summary: "Mobile tower defense with movable towers"
+summary: "A tactical tower defense with movable units enabling adaptive defensive planning."
 role: "Game Designer"
-date: ""
 tags:
   - Game Design
   - Mobile
@@ -14,11 +13,16 @@ gallery:
   - "/images/placeholders/castle-force-td.png"
 ---
 
-Mobile tower defense with movable towers
+A tactical tower defense with movable units enabling adaptive defensive planning.
 
 ## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
 
-## About the Game
-Mobile tower defense with movable towers — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
+## Overview
+A tactical tower defense with movable units enabling adaptive defensive planning. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
 
+## Core Design Contributions
+- Systems layout and initial ideation
+- Loop structure and tuning
+- Progression and balancing adjustments
+- Fast prototyping and iteration cycles

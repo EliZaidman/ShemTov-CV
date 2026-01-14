@@ -1,9 +1,8 @@
 ---
-title: "Mr.Gish"
+title: "Mr Gish"
 slug: "mr-gish"
-summary: "Mobile bubble shooter diagnosing social anxiety"
+summary: "A bubble shooter with emotional-diagnostic gameplay for anxiety tracking."
 role: "Game Designer"
-date: ""
 tags:
   - Game Design
   - Mobile
@@ -14,11 +13,16 @@ gallery:
   - "/images/placeholders/mr-gish.png"
 ---
 
-Mobile bubble shooter diagnosing social anxiety
+A bubble shooter with emotional-diagnostic gameplay for anxiety tracking.
 
 ## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
 
-## About the Game
-Mobile bubble shooter diagnosing social anxiety — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
+## Overview
+A bubble shooter with emotional-diagnostic gameplay for anxiety tracking. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
 
+## Core Design Contributions
+- Systems layout and initial ideation
+- Loop structure and tuning
+- Progression and balancing adjustments
+- Fast prototyping and iteration cycles

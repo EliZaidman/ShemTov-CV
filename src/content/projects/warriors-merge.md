@@ -1,9 +1,8 @@
 ---
 title: "Warriors Merge"
 slug: "warriors-merge"
-summary: "Mobile bag management with base vs base auto battle"
+summary: "A system-driven mobile battler focusing on inventory decision-making and base-to-base clashes."
 role: "Game Designer"
-date: ""
 tags:
   - Game Design
   - Mobile
@@ -14,11 +13,16 @@ gallery:
   - "/images/placeholders/warriors-merge.png"
 ---
 
-Mobile bag management with base vs base auto battle
+A system-driven mobile battler focusing on inventory decision-making and base-to-base clashes.
 
 ## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
 
-## About the Game
-Mobile bag management with base vs base auto battle — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
+## Overview
+A system-driven mobile battler focusing on inventory decision-making and base-to-base clashes. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
 
+## Core Design Contributions
+- Systems layout and initial ideation
+- Loop structure and tuning
+- Progression and balancing adjustments
+- Fast prototyping and iteration cycles

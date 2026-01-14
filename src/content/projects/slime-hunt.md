@@ -1,9 +1,8 @@
 ---
 title: "Slime Hunt"
 slug: "slime-hunt"
-summary: "Mobile simplified turn-based strategy hunting slimes"
+summary: "A simplified strategic hunter experience where minimal controls lead to deep planning."
 role: "Game Designer"
-date: ""
 tags:
   - Game Design
   - Mobile
@@ -14,11 +13,16 @@ gallery:
   - "/images/placeholders/slime-hunt.png"
 ---
 
-Mobile simplified turn-based strategy hunting slimes
+A simplified strategic hunter experience where minimal controls lead to deep planning.
 
 ## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
 
-## About the Game
-Mobile simplified turn-based strategy hunting slimes — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
+## Overview
+A simplified strategic hunter experience where minimal controls lead to deep planning. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
 
+## Core Design Contributions
+- Systems layout and initial ideation
+- Loop structure and tuning
+- Progression and balancing adjustments
+- Fast prototyping and iteration cycles
