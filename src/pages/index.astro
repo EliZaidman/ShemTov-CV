@@ -1,8 +1,32 @@
 
 ---
-import Layout from '../layouts/Layout.astro';
+import Base from "../layouts/Base.astro";
 ---
-<Layout>
-<h1>Game Designer Portfolio</h1>
-<p>Professional game designer with experience in rapid prototyping, agile design cycles, and mobile-first gameplay systems.</p>
-</Layout>
+<Base>
+  <h1 class="text-4xl font-bold mb-4">Dor Shem Tov — Game Designer</h1>
+  <p class="text-neutral-300 mb-6 max-w-xl">
+    Experienced Game Designer focused on mobile-first systems, rapid iteration, and delivering polished gameplay loops.
+  </p>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-10">
+
+    <a href="/projects/warriors-merge" class="block card">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="text-lg font-semibold">Warriors Merge</h2>
+      <p class="text-neutral-400 text-sm">Mobile bag management with base vs base auto battle</p>
+    </a>
+
+    <a href="/projects/ice-slingers" class="block card">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="text-lg font-semibold">Ice Slingers</h2>
+      <p class="text-neutral-400 text-sm">Mobile PvPvE Slingshot mechanic game</p>
+    </a>
+
+    <a href="/projects/orbit-defense" class="block card">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="text-lg font-semibold">Orbit Defense!</h2>
+      <p class="text-neutral-400 text-sm">Mobile base defense in space</p>
+    </a>
+
+  </div>
+</Base>

@@ -1,0 +1,18 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #f9d342;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  @apply bg-neutral-950 text-neutral-100;
+}
+
+.placeholder-card {
+  @apply w-full h-48 rounded-2xl flex items-center justify-center text-neutral-400 text-lg;
+  background: linear-gradient(135deg, #1a1a1a, #2a2a2a);
+}

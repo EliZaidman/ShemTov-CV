@@ -1,108 +1,100 @@
 
 ---
-import Layout from '../../layouts/Layout.astro';
+import Base from "../../layouts/Base.astro";
 ---
-<Layout>
-<h1>Projects</h1>
-<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:20px;">
-s-merge" style="color:#f9d342;">View Details →</a>
-</div>
+<Base>
+  <h1 class="text-3xl font-bold mb-6">Projects</h1>
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Ice Slingers</h2>
-    <p>Mobile PvPvE Slingshot mechanic game</p>
-    <a href="/projects/ice-slingers" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/warriors-merge" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Warriors Merge</h2>
+      <p class="text-neutral-400 text-sm">Mobile bag management with base vs base auto battle</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Orbit Defense!</h2>
-    <p>Mobile base defense in space</p>
-    <a href="/projects/orbit-defense" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/ice-slingers" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Ice Slingers</h2>
+      <p class="text-neutral-400 text-sm">Mobile PvPvE Slingshot mechanic game</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Castle Force TD</h2>
-    <p>Mobile tower defense with movable towers</p>
-    <a href="/projects/castle-force-td" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/orbit-defense" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Orbit Defense!</h2>
+      <p class="text-neutral-400 text-sm">Mobile base defense in space</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Peg Slinger</h2>
-    <p>Mobile pachinko mechanic</p>
-    <a href="/projects/peg-slinger" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/castle-force-td" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Castle Force TD</h2>
+      <p class="text-neutral-400 text-sm">Mobile tower defense with movable towers</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Super Strike!</h2>
-    <p>Mobile auto battle puzzle RPG</p>
-    <a href="/projects/super-strike" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/peg-slinger" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Peg Slinger</h2>
+      <p class="text-neutral-400 text-sm">Mobile pachinko mechanic</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Chaos Squad</h2>
-    <p>Mobile survivor-like party upgrade</p>
-    <a href="/projects/chaos-squad" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/super-strike" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Super Strike!</h2>
+      <p class="text-neutral-400 text-sm">Mobile auto battle puzzle RPG</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Slime Hunt</h2>
-    <p>Mobile simplified turn-based strategy</p>
-    <a href="/projects/slime-hunt" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/chaos-squad" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Chaos Squad</h2>
+      <p class="text-neutral-400 text-sm">Mobile survivor-like party upgrade</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Devoured</h2>
-    <p>PC 2.5D creepy-cute survival</p>
-    <a href="/projects/devoured" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/slime-hunt" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Slime Hunt</h2>
+      <p class="text-neutral-400 text-sm">Mobile simplified turn-based strategy</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Survive The Void</h2>
-    <p>Mobile isometric survival</p>
-    <a href="/projects/survive-the-void" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/devoured" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Devoured</h2>
+      <p class="text-neutral-400 text-sm">PC 2.5D creepy-cute survival</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Mr.Gish</h2>
-    <p>Mobile bubble shooter for social anxiety diagnosis</p>
-    <a href="/projects/mr-gish" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/survive-the-void" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Survive The Void</h2>
+      <p class="text-neutral-400 text-sm">Mobile isometric survival</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>A Way Back</h2>
-    <p>PC 2.5D Metroidvania</p>
-    <a href="/projects/a-way-back" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/mr-gish" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Mr.Gish</h2>
+      <p class="text-neutral-400 text-sm">Mobile bubble shooter for social anxiety diagnosis</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Iris</h2>
-    <p>PC third-person puzzle adventure</p>
-    <a href="/projects/iris" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/a-way-back" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">A Way Back</h2>
+      <p class="text-neutral-400 text-sm">PC 2.5D Metroidvania</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Vertical Slice</h2>
-    <p>PC short funny game-dev parody</p>
-    <a href="/projects/vertical-slice" style="color:#f9d342;">View Details →</a>
-</div>
+    <a href="/projects/iris" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Iris</h2>
+      <p class="text-neutral-400 text-sm">PC third-person puzzle adventure</p>
+    </a>
 
-<div class="card">
-    <div class="thumbnail">Image</div>
-    <h2>Bound Survivors</h2>
-    <p>PC co-op survivor</p>
-    <a href="/projects/bound-survivors" style="color:#f9d342;">View Details →</a>
-</div>
-</div></Layout>
+    <a href="/projects/vertical-slice" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Vertical Slice</h2>
+      <p class="text-neutral-400 text-sm">PC short funny game-dev parody</p>
+    </a>
+
+    <a href="/projects/bound-survivors" class="card block">
+      <div class="placeholder-card mb-3">Gradient Cover</div>
+      <h2 class="font-semibold text-lg">Bound Survivors</h2>
+      <p class="text-neutral-400 text-sm">PC co-op survivor</p>
+    </a>
+
+  </div>
+</Base>
