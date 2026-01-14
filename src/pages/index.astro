@@ -1,32 +1,63 @@
-
 ---
 import Base from "../layouts/Base.astro";
+import { getAllProjects } from "../lib/projects";
+
+// Load all project content
+const allProjects = getAllProjects();
+
+// Featured projects (for the top section)
+const featuredOrder = ["opa", "apestd", "manos"]; // your chosen order
+
+const featuredProjects = allProjects
+  .filter(p => p.featured)
+  .sort((a, b) => featuredOrder.indexOf(a.slug) - featuredOrder.indexOf(b.slug));
 ---
-<Base>
-  <h1 class="text-4xl font-bold mb-4">Dor Shem Tov — Game Designer</h1>
-  <p class="text-neutral-300 mb-6 max-w-xl">
-    Experienced Game Designer focused on mobile-first systems, rapid iteration, and delivering polished gameplay loops.
-  </p>
 
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-10">
+<Base title="Eli Zaidman — Unity Game Developer">
+  <section class="grid gap-8 lg:grid-cols-2 items-center">
+    <div>
+      <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight">
+        Unity Game Developer<br/>
+        <span class="text-accent">C# • Mobile • PC</span>
+      </h1>
 
-    <a href="/projects/warriors-merge" class="block card">
-      <div class="placeholder-card mb-3">Gradient Cover</div>
-      <h2 class="text-lg font-semibold">Warriors Merge</h2>
-      <p class="text-neutral-400 text-sm">Mobile bag management with base vs base auto battle</p>
-    </a>
+      <p class="mt-4 text-neutral-300 max-w-xl">
+        I build polished, responsive, production-ready gameplay and systems in Unity —
+        blending strong programming fundamentals with UI/UX, gameplay feel, and practical design thinking.
+      </p>
 
-    <a href="/projects/ice-slingers" class="block card">
-      <div class="placeholder-card mb-3">Gradient Cover</div>
-      <h2 class="text-lg font-semibold">Ice Slingers</h2>
-      <p class="text-neutral-400 text-sm">Mobile PvPvE Slingshot mechanic game</p>
-    </a>
+      <div class="mt-6 flex gap-3">
+        <a class="btn" href="/projects">View Projects</a>
+        <a class="btn" href="/downloads/eli-zaidman-cv.pdf" target="_blank">Download CV</a>
+        <a class="btn" href="/contact">Contact</a>
+      </div>
+    </div>
 
-    <a href="/projects/orbit-defense" class="block card">
-      <div class="placeholder-card mb-3">Gradient Cover</div>
-      <h2 class="text-lg font-semibold">Orbit Defense!</h2>
-      <p class="text-neutral-400 text-sm">Mobile base defense in space</p>
-    </a>
+    <div class="card">
+      <img src="images/ThatsMe.jpg" alt="Eli Zaidman" class="rounded-xl w-full" />
+    </div>
+  </section>
 
-  </div>
+  <section class="mt-12">
+    <h2 class="text-2xl font-bold mb-4">Featured Projects</h2>
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {featuredProjects.map(p => (
+        <a class="card block" href={`/projects/${p.slug}/`}>
+          <img
+            src={p.cover}
+            alt={p.title}
+            class="rounded-xl mb-3 w-full h-44 object-cover"
+            loading="lazy"
+          />
+          <h3 class="text-lg font-semibold">{p.title}</h3>
+          <p class="text-sm opacity-80">{p.summary}</p>
+
+          <div class="mt-3 flex flex-wrap gap-2">
+            {p.tags?.map(t => <span class="tag">{t}</span>)}
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
 </Base>

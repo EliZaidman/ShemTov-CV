@@ -1,32 +1,57 @@
-
 ---
 import "../styles/global.css";
-const { title = "Dor Shem Tov — Game Designer" } = Astro.props;
+
+const {
+  title = "Eli Zaidman — Unity Game Developer",
+  description = "Portfolio of Unity & C# games and tools by Eli Zaidman.",
+} = Astro.props;
 ---
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
     <title>{title}</title>
+    <link rel="icon" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap"
+      rel="stylesheet"
+    />
   </head>
-  <body class="min-h-screen">
-    <header class="border-b border-white/10 bg-black/40 backdrop-blur">
-      <nav class="max-w-5xl mx-auto flex h-16 items-center justify-between px-4">
-        <a href="/" class="text-xl font-bold text-accent">Dor Shem Tov</a>
-        <div class="flex gap-6 text-sm">
-          <a href="/projects" class="hover:text-accent">Projects</a>
-          <a href="/resume" class="hover:text-accent">Resume</a>
-          <a href="/portfolio" class="hover:text-accent">Portfolio</a>
-          <a href="/contact" class="hover:text-accent">Contact</a>
+  <body class="min-h-screen bg-gradient-to-b from-neutral-950 via-neutral-950 to-neutral-900 text-neutral-100">
+    <header class="border-b border-white/5 bg-black/30 backdrop-blur">
+      <nav class="container flex h-16 items-center justify-between">
+        <a href="/" class="flex items-center gap-2">
+          <div class="h-8 w-8 rounded-xl bg-accent/90 flex items-center justify-center text-xs font-extrabold text-black">
+            EZ
+          </div>
+          <span class="font-semibold tracking-tight text-sm sm:text-base">
+            Eli Zaidman
+          </span>
+        </a>
+        <div class="flex items-center gap-4 text-xs sm:text-sm">
+          <a class="nav-link" href="/projects">Projects</a>
+          <a class="nav-link" href="/about">About</a>
+          <a class="nav-link" href="/resume">Resume</a>
+          <a class="btn btn-sm" href="/contact">Contact</a>
         </div>
       </nav>
     </header>
 
-    <main class="max-w-5xl mx-auto px-4 py-10">
+    <main class="container py-10">
       <slot />
     </main>
 
-    <footer class="border-t border-white/10 text-neutral-500 text-sm py-6 text-center">
-      © {new Date().getFullYear()} Dor Shem Tov
+    <footer class="border-t border-white/5 py-8 text-xs text-neutral-400">
+      <div class="container flex flex-wrap items-center justify-between gap-3">
+        <span>© {new Date().getFullYear()} Eli Zaidman</span>
+        <span class="flex gap-3">
+          <a class="hover:text-accent" href="mailto:ZaidmanEli@gmail.com">Email</a>
+          <a class="hover:text-accent" href="https://www.linkedin.com/in/elizaid/" target="_blank">LinkedIn</a>
+        </span>
+      </div>
     </footer>
   </body>
 </html>
