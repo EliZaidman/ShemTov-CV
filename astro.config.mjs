@@ -1,2 +1,2 @@
 import { defineConfig } from 'astro/config';
-export default defineConfig({ site:'', srcDir:'src' });
+export default defineConfig({ srcDir:'src' });
