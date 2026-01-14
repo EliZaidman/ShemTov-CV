@@ -1,28 +1,39 @@
 ---
-title: "Vertical Slice"
+title: "Vertical Slice — Global Game Jam 2023"
+date: 2023-01-01
 slug: "vertical-slice"
-summary: "A humorous short-form parody of developer struggles with meta-systems."
-role: "Game Designer"
 tags:
-  - Game Design
-  - Mobile
-cover: "/images/placeholders/vertical-slice.png"
+  - Unity
+  - C#
+  - Game Jam
+  - 2D
+role: "Unity Developer"
+tech: "Unity C#, State Machines, 2.5D Gameplay"
+summary: ""
+cover: "/images/project/vertical-slice.png"
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: "https://www.youtube.com/watch?v=rW9ht_ZKbBw"
+  download: "https://v3.globalgamejam.org/2023/games/vertical-slice-6"
 gallery:
-  - "/images/placeholders/vertical-slice.png"
+  - "/images/project/vertical-slice_1.png"
+  - "/images/project/vertical-slice_2.png"
 ---
 
-A humorous short-form parody of developer struggles with meta-systems.
+## My Role
 
-## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+Detailed description here.
 
-## Overview
-A humorous short-form parody of developer struggles with meta-systems. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
+## Highlights
 
-## Core Design Contributions
-- Systems layout and initial ideation
-- Loop structure and tuning
-- Progression and balancing adjustments
-- Fast prototyping and iteration cycles
+- Key point 1
+- Key point 2
+
+## Challenges & Solutions
+
+Explain challenges.
+
+## Tech Stack
+
+- Unity C#, State Machines, 2.5D Gameplay

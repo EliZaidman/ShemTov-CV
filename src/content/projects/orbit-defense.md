@@ -1,28 +1,38 @@
 ---
-title: "Orbit Defense"
+title: "Orbit Defense!"
+date: 2023-07-01
 slug: "orbit-defense"
-summary: "A timing-based defensive strategy experience with rotating threats and orbit lanes."
-role: "Game Designer"
 tags:
-  - Game Design
   - Mobile
-cover: "/images/placeholders/orbit-defense.png"
+  - Defense
+  - Systems
+role: "Game Designer"
+tech: "Unity C#, Spawning, Balance"
+summary: ""
+cover: "/images/project/orbit-defense.png"
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
 gallery:
-  - "/images/placeholders/orbit-defense.png"
+  - "/images/project/orbit-defense_1.png"
+  - "/images/project/orbit-defense_2.png"
 ---
 
-A timing-based defensive strategy experience with rotating threats and orbit lanes.
+## My Role
 
-## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+Detailed description here.
 
-## Overview
-A timing-based defensive strategy experience with rotating threats and orbit lanes. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
+## Highlights
 
-## Core Design Contributions
-- Systems layout and initial ideation
-- Loop structure and tuning
-- Progression and balancing adjustments
-- Fast prototyping and iteration cycles
+- Key point 1
+- Key point 2
+
+## Challenges & Solutions
+
+Explain challenges.
+
+## Tech Stack
+
+- Unity C#, Spawning, Balance

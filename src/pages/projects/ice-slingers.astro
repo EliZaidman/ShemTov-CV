@@ -1,15 +1,16 @@
-
 ---
 import Base from "../../layouts/Base.astro";
+import project from "../../content/projects/ice-slingers.md";
 ---
 <Base>
-  <h1>Ice Slingers</h1>
-
-  <img src="/images/placeholders/ice-slingers.png" class="zoomable" style="width:100%;max-width:600px;border-radius:10px;margin-bottom:20px;">
+  <h1>{project.title}</h1>
+  <img src={project.cover} class="zoomable" style="width:100%;border-radius:10px;">
+  <p>{project.summary}</p>
 
   <h2>Gameplay Video</h2>
-  <iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen style="border-radius:10px;"></iframe>
+  <iframe width="100%" height="400" src={project.links.video} allowfullscreen></iframe>
 
-  <p>Description of Ice Slingers goes here.</p>
+  <h2>Gallery</h2>
+  { project.gallery.map(img => `<img src="$<PIL.Image.Image image mode=RGB size=800x450 at 0x7EB727121720>" class='zoomable' style='width:100%;margin:10px 0;border-radius:10px;'>`).join("") }
 
 </Base>

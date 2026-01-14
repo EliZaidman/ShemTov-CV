@@ -1,28 +1,39 @@
 ---
 title: "Warriors Merge"
+date: 2023-06-01
 slug: "warriors-merge"
-summary: "A system-driven mobile battler focusing on inventory decision-making and base-to-base clashes."
-role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-cover: "/images/placeholders/warriors-merge.png"
+  - Systems
+  - Prototyping
+role: "Game Designer"
+tech: "Unity C#, Mobile Systems, Rapid Iteration"
+summary: ""
+cover: "/images/project/warriors-merge.png"
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
 gallery:
-  - "/images/placeholders/warriors-merge.png"
+  - "/images/project/warriors-merge_1.png"
+  - "/images/project/warriors-merge_2.png"
 ---
 
-A system-driven mobile battler focusing on inventory decision-making and base-to-base clashes.
+## My Role
 
-## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+Detailed description here.
 
-## Overview
-A system-driven mobile battler focusing on inventory decision-making and base-to-base clashes. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
+## Highlights
 
-## Core Design Contributions
-- Systems layout and initial ideation
-- Loop structure and tuning
-- Progression and balancing adjustments
-- Fast prototyping and iteration cycles
+- Key point 1
+- Key point 2
+
+## Challenges & Solutions
+
+Explain challenges.
+
+## Tech Stack
+
+- Unity C#, Mobile Systems, Rapid Iteration

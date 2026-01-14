@@ -1,28 +1,38 @@
 ---
 title: "Ice Slingers"
+date: 2023-06-12
 slug: "ice-slingers"
-summary: "A physics-focused PvPvE action shooter where mastery of angles creates high-skill gameplay moments."
-role: "Game Designer"
 tags:
-  - Game Design
   - Mobile
-cover: "/images/placeholders/ice-slingers.png"
+  - Hypercasual
+  - Prototyping
+role: "Game Designer"
+tech: "Unity C#, Physics Systems"
+summary: ""
+cover: "/images/project/ice-slingers.png"
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
 gallery:
-  - "/images/placeholders/ice-slingers.png"
+  - "/images/project/ice-slingers_1.png"
+  - "/images/project/ice-slingers_2.png"
 ---
 
-A physics-focused PvPvE action shooter where mastery of angles creates high-skill gameplay moments.
+## My Role
 
-## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+Detailed description here.
 
-## Overview
-A physics-focused PvPvE action shooter where mastery of angles creates high-skill gameplay moments. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
+## Highlights
 
-## Core Design Contributions
-- Systems layout and initial ideation
-- Loop structure and tuning
-- Progression and balancing adjustments
-- Fast prototyping and iteration cycles
+- Key point 1
+- Key point 2
+
+## Challenges & Solutions
+
+Explain challenges.
+
+## Tech Stack
+
+- Unity C#, Physics Systems
