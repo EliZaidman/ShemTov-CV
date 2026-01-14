@@ -1,47 +1,41 @@
 ---
-title: "Mr.Gish"
-date: 2023-05-01
+title: "Mr Gish"
 slug: "mr-gish"
+summary: "A bubble shooter with emotional-diagnostic gameplay for anxiety tracking."
+role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-  - Serious Game
-role: "Game Designer"
-tech: "Bubble-shooter core loop, data-driven event logging"
-summary: "Bubble shooter designed as a serious game to support social anxiety research and emotional mapping."
 cover: "/images/placeholders/mr-gish.png"
 links:
-  appstore: ""
-  playstore: ""
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
   - "/images/placeholders/mr-gish.png"
 ---
 
-Mr.Gish is a prototype described in Dor Shem Tov’s portfolio, focusing on Bubble shooter designed as a serious game to support social anxiety research and emotional mapping.
+Mr Gish is a prototype described in Dor Shem Tov’s portfolio, focusing on bubble-shooter style interactions built as a serious game to support emotional research.
 
 ## My Role
 
-- Designed the **core game loop** and player progression  
-- Defined win/fail conditions and feedback systems  
-- Iterated on balance based on playtests and internal feedback  
-- Documented the design for future iteration
+- Designed the **core gameplay loop** and overall player experience  
+- Defined the main win/fail conditions and the feedback around them  
+- Adjusted balance and pacing based on internal playtests  
+- Documented the design so it could be iterated on quickly
 
 ## Highlights
 
-- Clear, readable structure for new players  
-- Tight focus on a single strong mechanic  
-- Built to support rapid iteration and testing
+- Clear, readable structure that makes the main mechanic easy to grasp  
+- Tight focus on a single strong idea instead of many half-finished systems  
+- Built to support rapid iteration and experimentation
 
 ## Challenges & Solutions
 
 - **Scoping the experience**  
-  Kept the design lean to avoid feature creep and protect the main mechanic.
+  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
 
 - **Communicating feedback**  
-  Used visual, audio, and timing cues to make outcomes easy to understand.
+  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
 
 ## Tech Stack
 
-- Bubble-shooter core loop, data-driven event logging
+- Unity and common modern game-design workflows (paper design, greybox, iteration)  

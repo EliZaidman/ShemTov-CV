@@ -1,47 +1,41 @@
 ---
 title: "Survive The Void"
-date: 2023-11-01
 slug: "survive-the-void"
+summary: "An isometric survival title focused on gathering resources under pressure."
+role: "Game Designer"
 tags:
   - Game Design
-  - PC
-  - Isometric
-role: "Game Designer"
-tech: "Resource pressure, survival pacing, enemy pressure curves"
-summary: "Isometric survival concept built around resource tension and constant pressure from the environment."
+  - Mobile
 cover: "/images/placeholders/survive-the-void.png"
 links:
-  appstore: ""
-  playstore: ""
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
   - "/images/placeholders/survive-the-void.png"
 ---
 
-Survive The Void is a prototype described in Dor Shem Tov’s portfolio, focusing on Isometric survival concept built around resource tension and constant pressure from the environment.
+Survive The Void is a prototype described in Dor Shem Tov’s portfolio, focusing on isometric survival under constant pressure, resource scarcity, and enemy threats.
 
 ## My Role
 
-- Designed the **core game loop** and player progression  
-- Defined win/fail conditions and feedback systems  
-- Iterated on balance based on playtests and internal feedback  
-- Documented the design for future iteration
+- Designed the **core gameplay loop** and overall player experience  
+- Defined the main win/fail conditions and the feedback around them  
+- Adjusted balance and pacing based on internal playtests  
+- Documented the design so it could be iterated on quickly
 
 ## Highlights
 
-- Clear, readable structure for new players  
-- Tight focus on a single strong mechanic  
-- Built to support rapid iteration and testing
+- Clear, readable structure that makes the main mechanic easy to grasp  
+- Tight focus on a single strong idea instead of many half-finished systems  
+- Built to support rapid iteration and experimentation
 
 ## Challenges & Solutions
 
 - **Scoping the experience**  
-  Kept the design lean to avoid feature creep and protect the main mechanic.
+  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
 
 - **Communicating feedback**  
-  Used visual, audio, and timing cues to make outcomes easy to understand.
+  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
 
 ## Tech Stack
 
-- Resource pressure, survival pacing, enemy pressure curves
+- Unity and common modern game-design workflows (paper design, greybox, iteration)  

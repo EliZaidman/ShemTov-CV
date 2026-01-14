@@ -1,47 +1,41 @@
 ---
-title: "Orbit Defense!"
-date: 2023-07-01
+title: "Orbit Defense"
 slug: "orbit-defense"
+summary: "A timing-based defensive strategy experience with rotating threats and orbit lanes."
+role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-  - Defense
-role: "Game Designer"
-tech: "Enemy spawning, circular lane design, difficulty curves"
-summary: "Orbital defense prototype where enemies attack from 360° and the player prioritizes threats in real time."
 cover: "/images/placeholders/orbit-defense.png"
 links:
-  appstore: ""
-  playstore: ""
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
   - "/images/placeholders/orbit-defense.png"
 ---
 
-Orbit Defense! is a prototype described in Dor Shem Tov’s portfolio, focusing on Orbital defense prototype where enemies attack from 360° and the player prioritizes threats in real time.
+Orbit Defense is a prototype described in Dor Shem Tov’s portfolio, focusing on 360° threat management and defending from enemies approaching along orbital paths.
 
 ## My Role
 
-- Designed the **core game loop** and player progression  
-- Defined win/fail conditions and feedback systems  
-- Iterated on balance based on playtests and internal feedback  
-- Documented the design for future iteration
+- Designed the **core gameplay loop** and overall player experience  
+- Defined the main win/fail conditions and the feedback around them  
+- Adjusted balance and pacing based on internal playtests  
+- Documented the design so it could be iterated on quickly
 
 ## Highlights
 
-- Clear, readable structure for new players  
-- Tight focus on a single strong mechanic  
-- Built to support rapid iteration and testing
+- Clear, readable structure that makes the main mechanic easy to grasp  
+- Tight focus on a single strong idea instead of many half-finished systems  
+- Built to support rapid iteration and experimentation
 
 ## Challenges & Solutions
 
 - **Scoping the experience**  
-  Kept the design lean to avoid feature creep and protect the main mechanic.
+  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
 
 - **Communicating feedback**  
-  Used visual, audio, and timing cues to make outcomes easy to understand.
+  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
 
 ## Tech Stack
 
-- Enemy spawning, circular lane design, difficulty curves
+- Unity and common modern game-design workflows (paper design, greybox, iteration)  

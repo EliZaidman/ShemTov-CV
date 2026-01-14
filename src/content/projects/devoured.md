@@ -1,47 +1,41 @@
 ---
 title: "Devoured"
-date: 2023-10-15
 slug: "devoured"
+summary: "A creepy-cute 2.5D exploration-survival mix with atmospheric tension arcs."
+role: "Game Designer"
 tags:
   - Game Design
-  - PC
-  - 2.5D
-role: "Game Designer"
-tech: "Atmospheric pacing, tension curves, exploration structure"
-summary: "Creepy-cute 2.5D survival-exploration game focused on mood, discovery, and escalating stakes."
+  - Mobile
 cover: "/images/placeholders/devoured.png"
 links:
-  appstore: ""
-  playstore: ""
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
   - "/images/placeholders/devoured.png"
 ---
 
-Devoured is a prototype described in Dor Shem Tov’s portfolio, focusing on Creepy-cute 2.5D survival-exploration game focused on mood, discovery, and escalating stakes.
+Devoured is a prototype described in Dor Shem Tov’s portfolio, focusing on creepy-cute 2.5D exploration with tension curves and environmental storytelling.
 
 ## My Role
 
-- Designed the **core game loop** and player progression  
-- Defined win/fail conditions and feedback systems  
-- Iterated on balance based on playtests and internal feedback  
-- Documented the design for future iteration
+- Designed the **core gameplay loop** and overall player experience  
+- Defined the main win/fail conditions and the feedback around them  
+- Adjusted balance and pacing based on internal playtests  
+- Documented the design so it could be iterated on quickly
 
 ## Highlights
 
-- Clear, readable structure for new players  
-- Tight focus on a single strong mechanic  
-- Built to support rapid iteration and testing
+- Clear, readable structure that makes the main mechanic easy to grasp  
+- Tight focus on a single strong idea instead of many half-finished systems  
+- Built to support rapid iteration and experimentation
 
 ## Challenges & Solutions
 
 - **Scoping the experience**  
-  Kept the design lean to avoid feature creep and protect the main mechanic.
+  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
 
 - **Communicating feedback**  
-  Used visual, audio, and timing cues to make outcomes easy to understand.
+  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
 
 ## Tech Stack
 
-- Atmospheric pacing, tension curves, exploration structure
+- Unity and common modern game-design workflows (paper design, greybox, iteration)  

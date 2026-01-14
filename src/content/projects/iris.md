@@ -1,47 +1,41 @@
 ---
 title: "Iris"
-date: 2022-10-01
 slug: "iris"
+summary: "A narrative puzzle adventure with environmental interactions and third‑person traversal."
+role: "Game Designer"
 tags:
   - Game Design
-  - PC
-  - Puzzle Adventure
-role: "Game Designer"
-tech: "Environmental puzzles, third-person camera design"
-summary: "Third-person puzzle adventure with a focus on environmental interactions and readable spatial challenges."
+  - Mobile
 cover: "/images/placeholders/iris.png"
 links:
-  appstore: ""
-  playstore: ""
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
   - "/images/placeholders/iris.png"
 ---
 
-Iris is a prototype described in Dor Shem Tov’s portfolio, focusing on Third-person puzzle adventure with a focus on environmental interactions and readable spatial challenges.
+Iris is a prototype described in Dor Shem Tov’s portfolio, focusing on third-person puzzle adventure design anchored in environmental interactions and camera readability.
 
 ## My Role
 
-- Designed the **core game loop** and player progression  
-- Defined win/fail conditions and feedback systems  
-- Iterated on balance based on playtests and internal feedback  
-- Documented the design for future iteration
+- Designed the **core gameplay loop** and overall player experience  
+- Defined the main win/fail conditions and the feedback around them  
+- Adjusted balance and pacing based on internal playtests  
+- Documented the design so it could be iterated on quickly
 
 ## Highlights
 
-- Clear, readable structure for new players  
-- Tight focus on a single strong mechanic  
-- Built to support rapid iteration and testing
+- Clear, readable structure that makes the main mechanic easy to grasp  
+- Tight focus on a single strong idea instead of many half-finished systems  
+- Built to support rapid iteration and experimentation
 
 ## Challenges & Solutions
 
 - **Scoping the experience**  
-  Kept the design lean to avoid feature creep and protect the main mechanic.
+  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
 
 - **Communicating feedback**  
-  Used visual, audio, and timing cues to make outcomes easy to understand.
+  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
 
 ## Tech Stack
 
-- Environmental puzzles, third-person camera design
+- Unity and common modern game-design workflows (paper design, greybox, iteration)  

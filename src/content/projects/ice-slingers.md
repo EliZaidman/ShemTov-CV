@@ -1,47 +1,41 @@
 ---
 title: "Ice Slingers"
-date: 2023-06-12
 slug: "ice-slingers"
+summary: "A physics-focused PvPvE action shooter where mastery of angles creates high-skill gameplay moments."
+role: "Game Designer"
 tags:
   - Game Design
   - Mobile
-  - Hypercasual
-role: "Game Designer"
-tech: "Physics-based core loop, onboarding and clarity tuning"
-summary: "Physics-focused slingshot prototype exploring impact, readability, and simple fail states for mobile."
 cover: "/images/placeholders/ice-slingers.png"
 links:
-  appstore: ""
-  playstore: ""
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
   - "/images/placeholders/ice-slingers.png"
 ---
 
-Ice Slingers is a prototype described in Dor Shem Tov’s portfolio, focusing on Physics-focused slingshot prototype exploring impact, readability, and simple fail states for mobile.
+Ice Slingers is a prototype described in Dor Shem Tov’s portfolio, focusing on physics-based slingshot aiming, impact, and simple high-readability encounters.
 
 ## My Role
 
-- Designed the **core game loop** and player progression  
-- Defined win/fail conditions and feedback systems  
-- Iterated on balance based on playtests and internal feedback  
-- Documented the design for future iteration
+- Designed the **core gameplay loop** and overall player experience  
+- Defined the main win/fail conditions and the feedback around them  
+- Adjusted balance and pacing based on internal playtests  
+- Documented the design so it could be iterated on quickly
 
 ## Highlights
 
-- Clear, readable structure for new players  
-- Tight focus on a single strong mechanic  
-- Built to support rapid iteration and testing
+- Clear, readable structure that makes the main mechanic easy to grasp  
+- Tight focus on a single strong idea instead of many half-finished systems  
+- Built to support rapid iteration and experimentation
 
 ## Challenges & Solutions
 
 - **Scoping the experience**  
-  Kept the design lean to avoid feature creep and protect the main mechanic.
+  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
 
 - **Communicating feedback**  
-  Used visual, audio, and timing cues to make outcomes easy to understand.
+  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
 
 ## Tech Stack
 
-- Physics-based core loop, onboarding and clarity tuning
+- Unity and common modern game-design workflows (paper design, greybox, iteration)  

@@ -1,47 +1,41 @@
 ---
 title: "Slime Hunt"
-date: 2023-10-01
 slug: "slime-hunt"
+summary: "A simplified strategic hunter experience where minimal controls lead to deep planning."
+role: "Game Designer"
 tags:
   - Game Design
-  - Strategy
   - Mobile
-role: "Game Designer"
-tech: "Turn-based decision loops, simplified control schemes"
-summary: "Simplified strategic hunting experience with minimal inputs and clear, readable outcomes."
 cover: "/images/placeholders/slime-hunt.png"
 links:
-  appstore: ""
-  playstore: ""
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
   - "/images/placeholders/slime-hunt.png"
 ---
 
-Slime Hunt is a prototype described in Dor Shem Tov’s portfolio, focusing on Simplified strategic hunting experience with minimal inputs and clear, readable outcomes.
+Slime Hunt is a prototype described in Dor Shem Tov’s portfolio, focusing on simple, readable strategy choices with minimal controls and clear outcomes.
 
 ## My Role
 
-- Designed the **core game loop** and player progression  
-- Defined win/fail conditions and feedback systems  
-- Iterated on balance based on playtests and internal feedback  
-- Documented the design for future iteration
+- Designed the **core gameplay loop** and overall player experience  
+- Defined the main win/fail conditions and the feedback around them  
+- Adjusted balance and pacing based on internal playtests  
+- Documented the design so it could be iterated on quickly
 
 ## Highlights
 
-- Clear, readable structure for new players  
-- Tight focus on a single strong mechanic  
-- Built to support rapid iteration and testing
+- Clear, readable structure that makes the main mechanic easy to grasp  
+- Tight focus on a single strong idea instead of many half-finished systems  
+- Built to support rapid iteration and experimentation
 
 ## Challenges & Solutions
 
 - **Scoping the experience**  
-  Kept the design lean to avoid feature creep and protect the main mechanic.
+  The design intentionally stayed small so the main idea could be polished instead of drowned in extra features.
 
 - **Communicating feedback**  
-  Used visual, audio, and timing cues to make outcomes easy to understand.
+  Visual and timing cues were added or simplified until players could quickly understand what worked and what didn’t.
 
 ## Tech Stack
 
-- Turn-based decision loops, simplified control schemes
+- Unity and common modern game-design workflows (paper design, greybox, iteration)  
