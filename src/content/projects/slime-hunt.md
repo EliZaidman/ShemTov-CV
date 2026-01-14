@@ -1,27 +1,24 @@
 ---
 title: "Slime Hunt"
 slug: "slime-hunt"
-summary: "Mobile simplified turn-based strategy"
-role: "Game Designer & Project Manager"
-date: "August 2024"
+summary: "Mobile simplified turn-based strategy hunting slimes"
+role: "Game Designer"
+date: ""
 tags:
   - Game Design
   - Mobile
-cover: "/images/hero-placeholder.svg"
+cover: "/images/placeholders/slime-hunt.png"
 links:
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/hero-placeholder.svg"
+  - "/images/placeholders/slime-hunt.png"
 ---
 
-Mobile simplified turn-based strategy
+Mobile simplified turn-based strategy hunting slimes
 
-## Role
-Game Designer & Project Manager
+## Gameplay Video
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-## Highlights
-- Designed core gameplay loop
-- Balanced progression
-- Managed iterative design
+## About the Game
+Mobile simplified turn-based strategy hunting slimes — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
 

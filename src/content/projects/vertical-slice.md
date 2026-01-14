@@ -1,27 +1,24 @@
 ---
 title: "Vertical Slice"
 slug: "vertical-slice"
-summary: "PC short funny game-dev parody"
+summary: "PC humorous short game about game development"
 role: "Game Designer"
-date: "February 2023"
+date: ""
 tags:
   - Game Design
   - Mobile
-cover: "/images/hero-placeholder.svg"
+cover: "/images/placeholders/vertical-slice.png"
 links:
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/hero-placeholder.svg"
+  - "/images/placeholders/vertical-slice.png"
 ---
 
-PC short funny game-dev parody
+PC humorous short game about game development
 
-## Role
-Game Designer
+## Gameplay Video
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-## Highlights
-- Designed core gameplay loop
-- Balanced progression
-- Managed iterative design
+## About the Game
+PC humorous short game about game development — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
 

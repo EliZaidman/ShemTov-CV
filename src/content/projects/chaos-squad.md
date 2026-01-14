@@ -1,27 +1,24 @@
 ---
 title: "Chaos Squad"
 slug: "chaos-squad"
-summary: "Mobile survivor-like party upgrade"
-role: "Game Designer & Project Manager"
-date: "October 2024"
+summary: "Mobile survivor-like party upgrade gameplay"
+role: "Game Designer"
+date: ""
 tags:
   - Game Design
   - Mobile
-cover: "/images/hero-placeholder.svg"
+cover: "/images/placeholders/chaos-squad.png"
 links:
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/hero-placeholder.svg"
+  - "/images/placeholders/chaos-squad.png"
 ---
 
-Mobile survivor-like party upgrade
+Mobile survivor-like party upgrade gameplay
 
-## Role
-Game Designer & Project Manager
+## Gameplay Video
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-## Highlights
-- Designed core gameplay loop
-- Balanced progression
-- Managed iterative design
+## About the Game
+Mobile survivor-like party upgrade gameplay — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
 

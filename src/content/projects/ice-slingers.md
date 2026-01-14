@@ -1,27 +1,24 @@
 ---
 title: "Ice Slingers"
 slug: "ice-slingers"
-summary: "Mobile PvPvE Slingshot mechanic game"
-role: "Game Designer & Project Manager"
-date: "March 2025"
+summary: "Mobile PvPvE slingshot mechanic game"
+role: "Game Designer"
+date: ""
 tags:
   - Game Design
   - Mobile
-cover: "/images/hero-placeholder.svg"
+cover: "/images/placeholders/ice-slingers.png"
 links:
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/hero-placeholder.svg"
+  - "/images/placeholders/ice-slingers.png"
 ---
 
-Mobile PvPvE Slingshot mechanic game
+Mobile PvPvE slingshot mechanic game
 
-## Role
-Game Designer & Project Manager
+## Gameplay Video
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-## Highlights
-- Designed core gameplay loop
-- Balanced progression
-- Managed iterative design
+## About the Game
+Mobile PvPvE slingshot mechanic game — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
 

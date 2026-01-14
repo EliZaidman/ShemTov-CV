@@ -1,27 +1,24 @@
 ---
 title: "Super Strike!"
 slug: "super-strike"
-summary: "Mobile auto battle puzzle RPG"
-role: "Game Designer & Project Manager"
-date: "January 2025"
+summary: "Mobile auto-battle RPG with puzzle elements"
+role: "Game Designer"
+date: ""
 tags:
   - Game Design
   - Mobile
-cover: "/images/hero-placeholder.svg"
+cover: "/images/placeholders/super-strike.png"
 links:
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/hero-placeholder.svg"
+  - "/images/placeholders/super-strike.png"
 ---
 
-Mobile auto battle puzzle RPG
+Mobile auto-battle RPG with puzzle elements
 
-## Role
-Game Designer & Project Manager
+## Gameplay Video
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-## Highlights
-- Designed core gameplay loop
-- Balanced progression
-- Managed iterative design
+## About the Game
+Mobile auto-battle RPG with puzzle elements — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
 

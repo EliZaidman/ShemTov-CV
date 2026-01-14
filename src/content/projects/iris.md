@@ -1,27 +1,24 @@
 ---
 title: "Iris"
 slug: "iris"
-summary: "PC third-person puzzle adventure"
+summary: "PC third-person puzzle adventure game"
 role: "Game Designer"
-date: "October 2022"
+date: ""
 tags:
   - Game Design
   - Mobile
-cover: "/images/hero-placeholder.svg"
+cover: "/images/placeholders/iris.png"
 links:
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/hero-placeholder.svg"
+  - "/images/placeholders/iris.png"
 ---
 
-PC third-person puzzle adventure
+PC third-person puzzle adventure game
 
-## Role
-Game Designer
+## Gameplay Video
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-## Highlights
-- Designed core gameplay loop
-- Balanced progression
-- Managed iterative design
+## About the Game
+PC third-person puzzle adventure game — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
 

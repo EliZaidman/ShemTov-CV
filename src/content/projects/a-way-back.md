@@ -1,27 +1,24 @@
 ---
 title: "A Way Back"
 slug: "a-way-back"
-summary: "PC 2.5D Metroidvania"
+summary: "PC 2.5D Metroidvania puzzle platforming"
 role: "Game Designer"
-date: "October 2023"
+date: ""
 tags:
   - Game Design
   - Mobile
-cover: "/images/hero-placeholder.svg"
+cover: "/images/placeholders/a-way-back.png"
 links:
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/hero-placeholder.svg"
+  - "/images/placeholders/a-way-back.png"
 ---
 
-PC 2.5D Metroidvania
+PC 2.5D Metroidvania puzzle platforming
 
-## Role
-Game Designer
+## Gameplay Video
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-## Highlights
-- Designed core gameplay loop
-- Balanced progression
-- Managed iterative design
+## About the Game
+PC 2.5D Metroidvania puzzle platforming — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
 

@@ -1,27 +1,24 @@
 ---
 title: "Devoured"
 slug: "devoured"
-summary: "PC 2.5D creepy-cute survival"
-role: "Game Designer & Project Manager"
-date: "January 2024"
+summary: "PC 2.5D creepy-cute survival exploration"
+role: "Game Designer"
+date: ""
 tags:
   - Game Design
   - Mobile
-cover: "/images/hero-placeholder.svg"
+cover: "/images/placeholders/devoured.png"
 links:
-  video: ""
-  download: ""
+  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
 gallery:
-  - "/images/hero-placeholder.svg"
+  - "/images/placeholders/devoured.png"
 ---
 
-PC 2.5D creepy-cute survival
+PC 2.5D creepy-cute survival exploration
 
-## Role
-Game Designer & Project Manager
+## Gameplay Video
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-## Highlights
-- Designed core gameplay loop
-- Balanced progression
-- Managed iterative design
+## About the Game
+PC 2.5D creepy-cute survival exploration — Designed and documented by Dor Shem Tov based on iteration cycles described in his portfolio.
 
