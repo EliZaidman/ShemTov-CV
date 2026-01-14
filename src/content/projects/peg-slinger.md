@@ -1,28 +1,47 @@
 ---
 title: "Peg Slinger"
+date: 2023-08-01
 slug: "peg-slinger"
-summary: "A pachinko-inspired physics battler mixing luck, aim control, and strategic board clearing."
-role: "Game Designer"
 tags:
   - Game Design
   - Mobile
+  - Physics
+role: "Game Designer"
+tech: "Pachinko-inspired board design, luck vs skill balancing"
+summary: "Pachinko-style slinger prototype combining board control, randomness, and cascading payoff moments."
 cover: "/images/placeholders/peg-slinger.png"
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
 gallery:
   - "/images/placeholders/peg-slinger.png"
 ---
 
-A pachinko-inspired physics battler mixing luck, aim control, and strategic board clearing.
+Peg Slinger is a prototype described in Dor Shem Tov’s portfolio, focusing on Pachinko-style slinger prototype combining board control, randomness, and cascading payoff moments.
 
-## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+## My Role
 
-## Overview
-A pachinko-inspired physics battler mixing luck, aim control, and strategic board clearing. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
+- Designed the **core game loop** and player progression  
+- Defined win/fail conditions and feedback systems  
+- Iterated on balance based on playtests and internal feedback  
+- Documented the design for future iteration
 
-## Core Design Contributions
-- Systems layout and initial ideation
-- Loop structure and tuning
-- Progression and balancing adjustments
-- Fast prototyping and iteration cycles
+## Highlights
+
+- Clear, readable structure for new players  
+- Tight focus on a single strong mechanic  
+- Built to support rapid iteration and testing
+
+## Challenges & Solutions
+
+- **Scoping the experience**  
+  Kept the design lean to avoid feature creep and protect the main mechanic.
+
+- **Communicating feedback**  
+  Used visual, audio, and timing cues to make outcomes easy to understand.
+
+## Tech Stack
+
+- Pachinko-inspired board design, luck vs skill balancing

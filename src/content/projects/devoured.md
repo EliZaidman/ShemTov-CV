@@ -1,28 +1,47 @@
 ---
 title: "Devoured"
+date: 2023-10-15
 slug: "devoured"
-summary: "A creepy-cute 2.5D exploration-survival mix with atmospheric tension arcs."
-role: "Game Designer"
 tags:
   - Game Design
-  - Mobile
+  - PC
+  - 2.5D
+role: "Game Designer"
+tech: "Atmospheric pacing, tension curves, exploration structure"
+summary: "Creepy-cute 2.5D survival-exploration game focused on mood, discovery, and escalating stakes."
 cover: "/images/placeholders/devoured.png"
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
 gallery:
   - "/images/placeholders/devoured.png"
 ---
 
-A creepy-cute 2.5D exploration-survival mix with atmospheric tension arcs.
+Devoured is a prototype described in Dor Shem Tov’s portfolio, focusing on Creepy-cute 2.5D survival-exploration game focused on mood, discovery, and escalating stakes.
 
-## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+## My Role
 
-## Overview
-A creepy-cute 2.5D exploration-survival mix with atmospheric tension arcs. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
+- Designed the **core game loop** and player progression  
+- Defined win/fail conditions and feedback systems  
+- Iterated on balance based on playtests and internal feedback  
+- Documented the design for future iteration
 
-## Core Design Contributions
-- Systems layout and initial ideation
-- Loop structure and tuning
-- Progression and balancing adjustments
-- Fast prototyping and iteration cycles
+## Highlights
+
+- Clear, readable structure for new players  
+- Tight focus on a single strong mechanic  
+- Built to support rapid iteration and testing
+
+## Challenges & Solutions
+
+- **Scoping the experience**  
+  Kept the design lean to avoid feature creep and protect the main mechanic.
+
+- **Communicating feedback**  
+  Used visual, audio, and timing cues to make outcomes easy to understand.
+
+## Tech Stack
+
+- Atmospheric pacing, tension curves, exploration structure

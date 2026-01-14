@@ -1,28 +1,47 @@
 ---
-title: "Super Strike"
+title: "Super Strike!"
+date: 2023-09-01
 slug: "super-strike"
-summary: "An auto-battle RPG mixing strategic positioning with dynamic combo puzzles."
-role: "Game Designer"
 tags:
   - Game Design
   - Mobile
+  - RPG
+role: "Game Designer"
+tech: "Auto-battle design, puzzle integration, encounter pacing"
+summary: "Auto-battle RPG concept that mixes positional puzzles with light tactics and satisfying payoffs."
 cover: "/images/placeholders/super-strike.png"
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
 gallery:
   - "/images/placeholders/super-strike.png"
 ---
 
-An auto-battle RPG mixing strategic positioning with dynamic combo puzzles.
+Super Strike! is a prototype described in Dor Shem Tov’s portfolio, focusing on Auto-battle RPG concept that mixes positional puzzles with light tactics and satisfying payoffs.
 
-## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+## My Role
 
-## Overview
-An auto-battle RPG mixing strategic positioning with dynamic combo puzzles. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
+- Designed the **core game loop** and player progression  
+- Defined win/fail conditions and feedback systems  
+- Iterated on balance based on playtests and internal feedback  
+- Documented the design for future iteration
 
-## Core Design Contributions
-- Systems layout and initial ideation
-- Loop structure and tuning
-- Progression and balancing adjustments
-- Fast prototyping and iteration cycles
+## Highlights
+
+- Clear, readable structure for new players  
+- Tight focus on a single strong mechanic  
+- Built to support rapid iteration and testing
+
+## Challenges & Solutions
+
+- **Scoping the experience**  
+  Kept the design lean to avoid feature creep and protect the main mechanic.
+
+- **Communicating feedback**  
+  Used visual, audio, and timing cues to make outcomes easy to understand.
+
+## Tech Stack
+
+- Auto-battle design, puzzle integration, encounter pacing

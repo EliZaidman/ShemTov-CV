@@ -1,28 +1,47 @@
 ---
 title: "Chaos Squad"
+date: 2023-09-15
 slug: "chaos-squad"
-summary: "A survivor-like enemy onslaught game with procedural upgrade paths."
-role: "Game Designer"
 tags:
   - Game Design
   - Mobile
+  - Survivor-like
+role: "Game Designer"
+tech: "Enemy scaling, upgrade drafting, arena encounter design"
+summary: "Survivor-like arena prototype built around chaotic enemy waves and evolving upgrade synergies."
 cover: "/images/placeholders/chaos-squad.png"
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
 gallery:
   - "/images/placeholders/chaos-squad.png"
 ---
 
-A survivor-like enemy onslaught game with procedural upgrade paths.
+Chaos Squad is a prototype described in Dor Shem Tov’s portfolio, focusing on Survivor-like arena prototype built around chaotic enemy waves and evolving upgrade synergies.
 
-## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+## My Role
 
-## Overview
-A survivor-like enemy onslaught game with procedural upgrade paths. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
+- Designed the **core game loop** and player progression  
+- Defined win/fail conditions and feedback systems  
+- Iterated on balance based on playtests and internal feedback  
+- Documented the design for future iteration
 
-## Core Design Contributions
-- Systems layout and initial ideation
-- Loop structure and tuning
-- Progression and balancing adjustments
-- Fast prototyping and iteration cycles
+## Highlights
+
+- Clear, readable structure for new players  
+- Tight focus on a single strong mechanic  
+- Built to support rapid iteration and testing
+
+## Challenges & Solutions
+
+- **Scoping the experience**  
+  Kept the design lean to avoid feature creep and protect the main mechanic.
+
+- **Communicating feedback**  
+  Used visual, audio, and timing cues to make outcomes easy to understand.
+
+## Tech Stack
+
+- Enemy scaling, upgrade drafting, arena encounter design

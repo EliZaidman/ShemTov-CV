@@ -1,28 +1,47 @@
 ---
 title: "Survive The Void"
+date: 2023-11-01
 slug: "survive-the-void"
-summary: "An isometric survival title focused on gathering resources under pressure."
-role: "Game Designer"
 tags:
   - Game Design
-  - Mobile
+  - PC
+  - Isometric
+role: "Game Designer"
+tech: "Resource pressure, survival pacing, enemy pressure curves"
+summary: "Isometric survival concept built around resource tension and constant pressure from the environment."
 cover: "/images/placeholders/survive-the-void.png"
 links:
-  video: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  appstore: ""
+  playstore: ""
+  video: ""
+  download: ""
 gallery:
   - "/images/placeholders/survive-the-void.png"
 ---
 
-An isometric survival title focused on gathering resources under pressure.
+Survive The Void is a prototype described in Dor Shem Tov’s portfolio, focusing on Isometric survival concept built around resource tension and constant pressure from the environment.
 
-## Gameplay Video
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+## My Role
 
-## Overview
-An isometric survival title focused on gathering resources under pressure. Designed by Dor Shem Tov, built through iterative loops and tuning cycles as described in his portfolio.
+- Designed the **core game loop** and player progression  
+- Defined win/fail conditions and feedback systems  
+- Iterated on balance based on playtests and internal feedback  
+- Documented the design for future iteration
 
-## Core Design Contributions
-- Systems layout and initial ideation
-- Loop structure and tuning
-- Progression and balancing adjustments
-- Fast prototyping and iteration cycles
+## Highlights
+
+- Clear, readable structure for new players  
+- Tight focus on a single strong mechanic  
+- Built to support rapid iteration and testing
+
+## Challenges & Solutions
+
+- **Scoping the experience**  
+  Kept the design lean to avoid feature creep and protect the main mechanic.
+
+- **Communicating feedback**  
+  Used visual, audio, and timing cues to make outcomes easy to understand.
+
+## Tech Stack
+
+- Resource pressure, survival pacing, enemy pressure curves

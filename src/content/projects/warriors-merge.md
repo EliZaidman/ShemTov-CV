@@ -6,34 +6,43 @@ tags:
   - Game Design
   - Mobile
   - Systems
-  - Prototyping
+  - Prototype
 role: "Game Designer"
-tech: "Unity C#, Mobile Systems, Rapid Iteration"
-summary: ""
-cover: "/images/project/warriors-merge.png"
+tech: "Mobile systems design, combat pacing, meta-progression tuning"
+summary: "System-driven mobile battler built around inventory merge decisions and base-versus-base combat."
+cover: "/images/placeholders/warriors-merge.png"
 links:
   appstore: ""
   playstore: ""
   video: ""
   download: ""
 gallery:
-  - "/images/project/warriors-merge_1.png"
-  - "/images/project/warriors-merge_2.png"
+  - "/images/placeholders/warriors-merge.png"
 ---
+
+Warriors Merge is a prototype described in Dor Shem Tov’s portfolio, focusing on System-driven mobile battler built around inventory merge decisions and base-versus-base combat.
 
 ## My Role
 
-Detailed description here.
+- Designed the **core game loop** and player progression  
+- Defined win/fail conditions and feedback systems  
+- Iterated on balance based on playtests and internal feedback  
+- Documented the design for future iteration
 
 ## Highlights
 
-- Key point 1
-- Key point 2
+- Clear, readable structure for new players  
+- Tight focus on a single strong mechanic  
+- Built to support rapid iteration and testing
 
 ## Challenges & Solutions
 
-Explain challenges.
+- **Scoping the experience**  
+  Kept the design lean to avoid feature creep and protect the main mechanic.
+
+- **Communicating feedback**  
+  Used visual, audio, and timing cues to make outcomes easy to understand.
 
 ## Tech Stack
 
-- Unity C#, Mobile Systems, Rapid Iteration
+- Mobile systems design, combat pacing, meta-progression tuning

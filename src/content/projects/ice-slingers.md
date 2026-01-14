@@ -3,36 +3,45 @@ title: "Ice Slingers"
 date: 2023-06-12
 slug: "ice-slingers"
 tags:
+  - Game Design
   - Mobile
   - Hypercasual
-  - Prototyping
 role: "Game Designer"
-tech: "Unity C#, Physics Systems"
-summary: ""
-cover: "/images/project/ice-slingers.png"
+tech: "Physics-based core loop, onboarding and clarity tuning"
+summary: "Physics-focused slingshot prototype exploring impact, readability, and simple fail states for mobile."
+cover: "/images/placeholders/ice-slingers.png"
 links:
   appstore: ""
   playstore: ""
   video: ""
   download: ""
 gallery:
-  - "/images/project/ice-slingers_1.png"
-  - "/images/project/ice-slingers_2.png"
+  - "/images/placeholders/ice-slingers.png"
 ---
+
+Ice Slingers is a prototype described in Dor Shem Tov’s portfolio, focusing on Physics-focused slingshot prototype exploring impact, readability, and simple fail states for mobile.
 
 ## My Role
 
-Detailed description here.
+- Designed the **core game loop** and player progression  
+- Defined win/fail conditions and feedback systems  
+- Iterated on balance based on playtests and internal feedback  
+- Documented the design for future iteration
 
 ## Highlights
 
-- Key point 1
-- Key point 2
+- Clear, readable structure for new players  
+- Tight focus on a single strong mechanic  
+- Built to support rapid iteration and testing
 
 ## Challenges & Solutions
 
-Explain challenges.
+- **Scoping the experience**  
+  Kept the design lean to avoid feature creep and protect the main mechanic.
+
+- **Communicating feedback**  
+  Used visual, audio, and timing cues to make outcomes easy to understand.
 
 ## Tech Stack
 
-- Unity C#, Physics Systems
+- Physics-based core loop, onboarding and clarity tuning
